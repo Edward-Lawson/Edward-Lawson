@@ -1,4 +1,4 @@
-## Hi there I'm Edward, an <a href= "https://www.linkedin.com/in/edward-lawson-7b76a8359">IT Specialist</a>
+## Hi, I'm Edward, an <a href= "https://www.linkedin.com/in/edward-lawson-7b76a8359">IT Specialist</a>
 
 <h2>Information Technology Projects:</h2>
 
